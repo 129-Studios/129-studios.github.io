@@ -3,7 +3,7 @@ layout: page
 title: Dreamcatcher
 ---
 
-# About the game 'Dreamcatcher'
+## About the game 'Dreamcatcher'
 
 In a post-apocalyptic world scorned by old warmachines and mutants, Aila harvests and sells dreams from the ethereal realm until she faces Araun, Eater of Dreams.
 
